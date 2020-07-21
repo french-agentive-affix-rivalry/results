@@ -1,0 +1,101 @@
+AN	CENTROID	PROX	MORPH_TYPE	EXPONENT	BASE_POS	SEM_TYPE
+NC:physicien	ien	0.832053915941023	affixed	ien	n	domain
+NC:neurologue	ien	0.8274051484955972	affixed	logue	n	object
+NC:linguiste	ien	0.8208614313064551	affixed	iste	n	domain
+NC:psychiatre	ien	0.8146677088903619	compound			
+NC:mathématicien	ien	0.8140744708617044	affixed	ien	n	domain
+NC:informaticien	ien	0.8130896742187007	affixed	ien	n	domain
+NC:statisticien	ien	0.8117223916465474	affixed	ien	n	domain
+NC:biologiste	ien	0.8060713477315901	affixed	iste	n	domain
+NC:pédiatre	ien	0.8032627307405853	compound			
+NC:anthropologue	ien	0.8030893709563778	affixed	logue	n	object
+NC:psychologue	ien	0.8016373303933797	affixed	logue	n	object
+NC:cardiologue	ien	0.8000522041848684	affixed	logue	n	object
+NC:chimiste	ien	0.8000201429330488	affixed	iste	n	domain
+NC:ophtalmologue	ien	0.7989308749950397	affixed	logue	n	object
+NC:sociologue	ien	0.7972197363466117	affixed	logue	n	institution
+NC:physiologiste	ien	0.7953076523059665	affixed	iste	n	domain
+NC:neurochirurgien	ien	0.7945850965891238	affixed	ien	n	domain
+NC:juriste	ien	0.791361995440155	affixed	iste	n	domain
+NC:criminologue	ien	0.790232081602996	affixed	logue	n	action
+NC:pédagogue	ien	0.7881131614990591	compound			
+NC:germaniste	ien	0.7834875312864008	affixed	iste	n	domain
+NC:helléniste	ien	0.7809377854290728	affixed	iste	n	domain
+NC:ethnologue	ien	0.7800427553157147	affixed	logue	n	object
+NC:économiste	ien	0.7788968608747088	affixed	iste	n	domain
+NC:médecin	ien	0.7757691195239784	simple			
+NC:hématologue	ien	0.7712988061060064	affixed	logue	n	object
+NC:dermatologue	ien	0.7709108479572063	affixed	logue	n	object
+NC:électrotechnicien	ien	0.7650158713647499	affixed	ien	n	domain
+NC:philosophe	ien	0.764414475043719	compound			
+NC:immunologiste	ien	0.763048809682189	affixed	iste	n	domain
+NC:pathologiste	ien	0.7630452869563749	affixed	iste	n	domain
+NC:homéopathe	ien	0.7613813785068848	compound			
+NC:urologue	ien	0.761333508476639	affixed	logue	n	object
+NC:pharmacologue	ien	0.7610940254652891	affixed	logue	n	object
+NC:mycologue	ien	0.7601542770130015	affixed	logue	n	object
+NC:sinologue	ien	0.7592197046867775	affixed	logue	n	object
+NC:écrivain	ien	0.7579153364145784	complex			
+NC:lexicographe	ien	0.7572470326112155	compound			
+NC:philologue	ien	0.7571627715550424	affixed	logue	n	object
+NC:généticien	ien	0.7570590398438973	affixed	ien	n	domain
+NC:géologue	ien	0.7568210558274008	affixed	logue	n	object
+NC:ophtalmologiste	ien	0.756675359119952	affixed	iste	n	domain
+NC:psychanalyste	ien	0.756583600911551	affixed	iste	n	domain
+NC:biochimiste	ien	0.7554408065668025	affixed	iste	n	domain
+NC:phonéticien	ien	0.7552084794062376	affixed	ien	n	domain
+NC:géophysicien	ien	0.7542685069709147	affixed	ien	n	domain
+NC:microbiologiste	ien	0.752600930409654	affixed	iste	n	domain
+NC:météorologue	ien	0.7515409048202875	affixed	logue	n	object
+NC:botaniste	ien	0.748846543858073	affixed	iste	n	domain
+NC:érudit	ien	0.7474484318598258	simple			
+NC:hydraulicien	ien	0.7472619692410897	affixed	ien	n	domain
+NC:chirurgien	ien	0.746662250595213	affixed	ien	n	domain
+NC:anatomiste	ien	0.7464891156046909	affixed	iste	n	domain
+NC:biophysicien	ien	0.7427176733937251	affixed	ien	n	domain
+NC:océanographe	ien	0.7418880523686877	compound			
+NC:universitaire	ien	0.7416230242183156	affixed	aire	n	institution
+NC:gynécologue	ien	0.7406223220650594	affixed	logue	n	object
+NC:indianiste	ien	0.7389907007439237	affixed	iste	n	object
+NC:géographe	ien	0.738589746396374	compound			
+NC:chercheur	ien	0.7381362721733666	affixed	eur	v	action
+NC:ornithologue	ien	0.736920299023595	affixed	logue	n	object
+NC:obstétricien	ien	0.7356652137633071	affixed	ien	n	domain
+NC:bactériologiste	ien	0.7351360791018359	affixed	iste	n	domain
+NC:médiéviste	ien	0.7348487031319318	affixed	iste	n	domain
+NC:paléontologue	ien	0.7341405499021958	affixed	logue	n	property
+NC:radiologue	ien	0.7339996828057083	affixed	logue	n	object
+NC:neuropsychiatre	ien	0.733116210437308	compound			
+NC:agronome	ien	0.7329535839614382	compound			
+NC:latiniste	ien	0.7329432370883746	affixed	iste	n	domain
+NC:neurobiologiste	ien	0.7314569830846377	affixed	iste	n	domain
+NC:égyptologue	ien	0.7309115860640591	affixed	logue	n	object
+NC:naturopathe	ien	0.7298871997585419	compound			
+NC:neurophysiologiste	ien	0.729439679327655	affixed	iste	n	domain
+NC:musicologue	ien	0.7286172505633071	affixed	logue	n	domain
+NC:cryptologue	ien	0.7280710317655236	affixed	logue	n	property
+NC:embryologiste	ien	0.727877734925579	affixed	iste	n	domain
+NC:vétérinaire	ien	0.7278294479449332	complex			
+NC:endocrinologue	ien	0.7277609440822118	affixed	logue	n	object
+NC:cancérologue	ien	0.7274637750559103	affixed	logue	n	object
+NC:savant	ien	0.7270998387702672	undet			
+NC:neuroscientifique	ien	0.7267278349041384	compound			
+NC:politologue	ien	0.7256455003014094	affixed	logue	n	domain
+NC:logicien	ien	0.725329344697095	affixed	ien	n	domain
+NC:astrophysicien	ien	0.7245412170236798	affixed	ien	n	domain
+NC:éducateur	ien	0.7238139902707221	affixed	eur	v	action
+NC:historien	ien	0.7222439937807353	affixed	ien	n	domain
+NC:bibliste	ien	0.7213761643660751	affixed	iste	n	object
+NC:naturaliste	ien	0.7212618407216904	affixed	iste	n	domain
+NC:cosmologue	ien	0.7197772836246162	affixed	logue	n	object
+NC:photographe	ien	0.7183448080368707	compound			
+NC:haut-fonctionnaire	ien	0.7172545474838795	affixed	haut	n	object
+NC:paléobotaniste	ien	0.7171011794471712	affixed	iste	n	domain
+NC:archéologue	ien	0.7158885101962416	affixed	logue	n	property
+NC:épidémiologiste	ien	0.714862984041401	affixed	iste	n	domain
+NC:islamologue	ien	0.713816264551844	affixed	logue	n	institution
+NC:prestidigitateur	ien	0.7128163573751793	affixed	eur	v	action
+NC:parapsychologue	ien	0.7123253283309465	affixed	para	n	object
+NC:psychothérapeute	ien	0.7112177452960727	compound			
+NC:pharmacien	ien	0.7101378524479832	affixed	ien	n	domain
+NC:folkloriste	ien	0.7098462887520968	affixed	iste	n	domain

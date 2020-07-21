@@ -1,0 +1,101 @@
+AN	CENTROID	PROX	MORPH_TYPE	EXPONENT	BASE_POS	SEM_TYPE
+NC:plombier	eur	0.7689195603343771	affixed	ier	n	object
+NC:truand	eur	0.7487393472292215	undet			
+NC:escroc	eur	0.7467439430326699	undet			
+NC:proxénète	eur	0.7267757955169001	simple			
+NC:rabatteur	eur	0.7249440917739315	affixed	eur	v	action
+NC:prestidigitateur	eur	0.7222527640120057	affixed	eur	v	action
+NC:coiffeur	eur	0.7169646947713448	affixed	eur	v	action
+NC:garagiste	eur	0.70423583557752	affixed	iste	n	object
+NC:gangster	eur	0.7029793676586913	complex			
+NC:cuisinier	eur	0.699420663005628	affixed	ier	n	domain
+NC:camionneur	eur	0.6979265878247776	affixed	eur	n	object
+NC:pickpocket	eur	0.6951171378710332	simple			
+NC:malfrat	eur	0.6946352740951836	complex			
+NC:soigneur	eur	0.6904567971392956	affixed	eur	v	action
+NC:magicien	eur	0.6869661120359254	affixed	ien	n	domain
+NC:charlatan	eur	0.6812393791186884	simple			
+NC:voleur	eur	0.6812315073861066	affixed	eur	v	action
+NC:voyou	eur	0.681128877230041	undet			
+NC:cambrioleur	eur	0.6796149899665755	affixed	eur	v	action
+NC:jardinier	eur	0.6784913620275188	affixed	ier	n	object
+NC:dompteur	eur	0.6777456837406887	affixed	eur	v	action
+NC:bijoutier	eur	0.676084558917976	affixed	ier	n	object
+NC:cuistot	eur	0.6749857679283898	complex			
+NC:colporteur	eur	0.6745791204731205	affixed	eur	v	action
+NC:receleur	eur	0.6717285681803252	affixed	eur	v	action
+NC:assassin	eur	0.6710870392457233	undet			
+NC:farceur	eur	0.6702229440799383	affixed	eur	n	action
+NC:domestique	eur	0.669433666218746	conversion		a	property
+NC:postier	eur	0.6671579441100048	affixed	ier	n	institution
+NC:déménageur	eur	0.66583357631299	affixed	eur	v	action
+NC:criminel	eur	0.6623990444649367	conversion		a	property
+NC:contrebandier	eur	0.6605582346526911	affixed	ier	n	action
+NC:faussaire	eur	0.6593674095539377	affixed	aire	n	object
+NC:ventriloque	eur	0.6588826794214254	compound			
+NC:armurier	eur	0.6581975720798191	affixed	ier	n	object
+NC:drogué	eur	0.6577123821997136	conversion		v	action
+NC:informateur	eur	0.6575000621189123	affixed	eur	v	action
+NC:marionnettiste	eur	0.6568330570693124	affixed	iste	n	object
+NC:boucher	eur	0.6538563477711168	affixed	ier	n	object
+NC:clochard	eur	0.6532405639350282	affixed	ard	v	action
+NC:photographe	eur	0.6523777738931402	compound			
+NC:pompiste	eur	0.6518535574002493	affixed	iste	n	object
+NC:policier	eur	0.6516315682778318	affixed	ier	n	institution
+NC:ivrogne	eur	0.6501463791299902	complex			
+NC:aventurier	eur	0.648037215264807	affixed	ier	n	action
+NC:machiniste	eur	0.6472943438062415	affixed	iste	n	object
+NC:bandit	eur	0.646932709958238	simple			
+NC:comptable	eur	0.6468150408344069	conversion		a	property
+NC:vétérinaire	eur	0.6465195684168583	complex			
+NC:fêtard	eur	0.6458735886620646	affixed	ard	v	action
+NC:vaurien	eur	0.6457713221045644	compound			
+NC:illusionniste	eur	0.6453249043199165	affixed	iste	n	action
+NC:arnaqueur	eur	0.6447466057609523	affixed	eur	v	action
+NC:motard	eur	0.6447057107648941	affixed	ard	n	domain
+NC:souteneur	eur	0.6445711634219164	affixed	eur	v	action
+NC:contremaître	eur	0.64417678469044	affixed	contre	n	object
+NC:forgeron	eur	0.6439147206638577	affixed	on	v	action
+NC:meurtrier	eur	0.6436229190674808	affixed	ier	n	action
+NC:éboueur	eur	0.6426988141812191	affixed	eur	v	action
+NC:dealer	eur	0.6424417836175184	complex			
+NC:coursier	eur	0.6415573727296983	affixed	ier	n	action
+NC:arriviste	eur	0.6411796064361918	affixed	iste	v	action
+NC:cascadeur	eur	0.6410655020708471	affixed	eur	v	action
+NC:cruciverbiste	eur	0.6400742377141335	complex			
+NC:gaffeur	eur	0.6393828833018906	affixed	eur	v	action
+NC:chapelier	eur	0.6392767984334744	affixed	ier	n	object
+NC:couturier	eur	0.6389940758332557	affixed	ier	n	action
+NC:clown	eur	0.6385410613843341	simple			
+NC:recruteur	eur	0.637896313678396	affixed	eur	v	action
+NC:bricoleur	eur	0.637413523358276	affixed	eur	v	action
+NC:tatoueur	eur	0.637344447524854	affixed	eur	v	action
+NC:imitateur	eur	0.6368677872369131	affixed	eur	v	action
+NC:espion	eur	0.636642182951826	affixed	on	v	action
+NC:vendeur	eur	0.6364034576168435	affixed	eur	v	action
+NC:débauché	eur	0.6360607936364033	conversion		a	property
+NC:chien	eur	0.6358452003090227	simple			
+NC:fraudeur	eur	0.6352621338486348	affixed	eur	v	action
+NC:dentiste	eur	0.6351549337914848	affixed	iste	n	object
+NC:travesti	eur	0.634662526626393	conversion		v	action
+NC:cow-boy	eur	0.6345737276615568	simple			
+NC:séducteur	eur	0.6345225772477724	affixed	eur	v	action
+NC:apprenti	eur	0.6342534859451159	complex			
+NC:racketteur	eur	0.6341468207169617	affixed	eur	v	action
+NC:comédien	eur	0.6335956081565357	affixed	ien	n	domain
+NC:râleur	eur	0.6323319880082023	affixed	eur	v	action
+NC:cordonnier	eur	0.6315633154115586	affixed	ier	n	object
+NC:surfeur	eur	0.6304766730794589	affixed	eur	v	action
+NC:indic	eur	0.6300287841320991	extragram			
+NC:héros	eur	0.628598621738727	simple			
+NC:garçon	eur	0.6279717349353822	simple			
+NC:complice	eur	0.627752709991662	undet			
+NC:médecin	eur	0.6275551354003457	simple			
+NC:masseur	eur	0.6269248610558231	affixed	eur	v	action
+NC:imposteur	eur	0.6266710462599392	affixed	eur	v	action
+NC:balayeur	eur	0.6265468538366706	affixed	eur	v	action
+NC:boulanger	eur	0.6264732967426282	affixed	ier	n	domain
+NC:tricheur	eur	0.6261844535745134	affixed	eur	v	action
+NC:délateur	eur	0.6250863145147157	affixed	eur	v	action
+NC:sadique	eur	0.6245779275384888	conversion		a	property
+NC:cafetier	eur	0.624094374396004	affixed	ier	n	object

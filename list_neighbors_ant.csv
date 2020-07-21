@@ -1,0 +1,101 @@
+AN	CENTROID	PROX	MORPH_TYPE	EXPONENT	BASE_POS	SEM_TYPE
+NC:détenu	ant	0.7647298841107851	conversion		v	property
+NC:citoyen	ant	0.7267715567661104	affixed	ien	n	object
+NC:gens	ant	0.7253189674004293	simple			
+NC:délinquant	ant	0.7111159701758911	complex			
+NC:personne	ant	0.7084078237404692	simple			
+NC:villageois	ant	0.7067079863922355	affixed	ois	n	object
+NC:employé	ant	0.7034053702960266	conversion		v	action
+NC:travailleur	ant	0.699962693967642	affixed	eur	v	action
+NC:wikipédiens	ant	0.6964429299720172	affixed	ien	n	objCog
+NC:comploteur	ant	0.6923526493027838	affixed	eur	v	action
+NC:postulant	ant	0.689458030985478	affixed	ant	v	action
+NC:ouvrier	ant	0.6891811386163933	affixed	ier	v	action
+NC:sympathisant	ant	0.6890695602376322	affixed	ant	v	action
+NC:proche	ant	0.6887177269644704	undet			
+NC:civil	ant	0.686041208620805	undet			
+NC:domestique	ant	0.6850547632792223	conversion		a	property
+NC:terroriste	ant	0.6829884700794887	affixed	iste	n	property
+NC:client	ant	0.6801693392866535	simple			
+NC:étudiant	ant	0.6789438089195696	affixed	ant	v	action
+NC:militaire	ant	0.6769349043990155	complex			
+NC:soldat	ant	0.675385074546184	simple			
+NC:combattant	ant	0.6743638388867599	affixed	ant	v	action
+NC:criminel	ant	0.6735064280984974	conversion		a	property
+NC:milicien	ant	0.6726573028358148	affixed	ien	n	institution
+NC:musulman	ant	0.671934136353709	simple			
+NC:malfrat	ant	0.6688335589242198	complex			
+NC:émeutier	ant	0.6682027293452117	affixed	ier	n	action
+NC:policier	ant	0.6662779922482145	affixed	ier	n	institution
+NC:malade	ant	0.6648587826669778	undet			
+NC:patient	ant	0.6648541930662777	undet			
+NC:paysan	ant	0.6646710674820939	simple			
+NC:croyant	ant	0.6643593102588549	affixed	ant	v	property
+NC:fidèle	ant	0.6640913891281167	undet			
+NC:retraité	ant	0.6633534095557276	conversion		n	property
+NC:employeur	ant	0.6604177742501288	affixed	eur	v	action
+NC:homosexuel	ant	0.6601031803095568	conversion		a	property
+NC:expatrié	ant	0.6570347089600731	conversion		v	action
+NC:homme	ant	0.6559227455652835	simple			
+NC:juif	ant	0.6555651031068344	simple			
+NC:pratiquant	ant	0.6548850623825665	affixed	ant	v	action
+NC:réfugié	ant	0.6536572222857925	conversion		v	action
+NC:intervenant	ant	0.6536505554899621	affixed	ant	v	action
+NC:opposant	ant	0.6534209058829089	affixed	ant	v	action
+NC:occupant	ant	0.6528956627681114	affixed	ant	v	property
+NC:ressortissant	ant	0.6528032674486737	affixed	ant	v	property
+NC:individu	ant	0.6525599261299091	simple			
+NC:indigène	ant	0.6521935330702878	simple			
+NC:agriculteur	ant	0.6518641291703168	complex			
+NC:automobiliste	ant	0.6518628137223943	affixed	iste	n	object
+NC:conjuré	ant	0.6509805140230156	conversion		v	action
+NC:parent	ant	0.6506897508009613	simple			
+NC:dirigeant	ant	0.648507331468243	affixed	ant	v	action
+NC:salarié	ant	0.6464917881382986	conversion		v	action
+NC:exilé	ant	0.6459270159303472	conversion		v	action
+NC:jeune	ant	0.6457437317059226	undet			
+NC:usager	ant	0.6445907241546781	affixed	ier	n	action
+NC:locataire	ant	0.6436034239817471	affixed	aire	v	action
+NC:émigré	ant	0.6425828481305389	conversion		v	action
+NC:administré	ant	0.6424360664527179	conversion		v	action
+NC:interné	ant	0.6419015154893726	conversion		v	action
+NC:paroissien	ant	0.6415660128341413	affixed	ien	n	institution
+NC:créancier	ant	0.6412269122361637	affixed	ier	n	object
+NC:condamné	ant	0.6406837467185242	conversion		v	action
+NC:contribuable	ant	0.6396036741809156	complex			
+NC:religieux	ant	0.6387804170525809	conversion		a	property
+NC:autochtone	ant	0.6382296376982012	undet			
+NC:assaillant	ant	0.6373789947662005	affixed	ant	v	action
+NC:commerçant	ant	0.6372382701298018	affixed	ant	v	action
+NC:rabatteur	ant	0.6372252658139008	affixed	eur	v	action
+NC:investisseur	ant	0.6369335078034427	affixed	eur	v	action
+NC:chrétien	ant	0.6369142598756333	affixed	ien	n	object
+NC:déserteur	ant	0.6357582610888514	affixed	eur	v	action
+NC:épargnant	ant	0.6356161733076613	affixed	ant	v	action
+NC:admins	ant	0.6352924811118802	extragram			
+NC:soignant	ant	0.6350190154640214	affixed	ant	v	action
+NC:élève	ant	0.634620139043591	simple			
+NC:citadin	ant	0.6344281507713962	complex			
+NC:agresseur	ant	0.634207966301336	affixed	eur	v	action
+NC:conspirateur	ant	0.6336382856698065	affixed	eur	v	action
+NC:résident	ant	0.6331863023648053	affixed	ant	v	property
+NC:enquêteur	ant	0.6324134276605331	affixed	eur	v	action
+NC:ravisseur	ant	0.6322939670384007	affixed	eur	v	action
+NC:gréviste	ant	0.6318341946673394	affixed	iste	n	action
+NC:chômeur	ant	0.6317537136839328	affixed	eur	v	action
+NC:écolier	ant	0.6316562120983266	affixed	ier	n	institution
+NC:esclave	ant	0.6314499300439183	simple			
+NC:interlocuteur	ant	0.6312698574534317	affixed	inter	n	object
+NC:indigent	ant	0.6307202496707961	undet			
+NC:mutin	ant	0.6305243313105116	undet			
+NC:enfant	ant	0.630226247940522	simple			
+NC:contributeur	ant	0.6293622864616433	affixed	eur	v	action
+NC:Africains	ant	0.6289684507266917	affixed	ain	n	object
+NC:palestinien	ant	0.6288024669540585	affixed	ien	n	object
+NC:nécessiteux	ant	0.6283970579091901	conversion		a	property
+NC:prévenu	ant	0.628317364597627	conversion		v	action
+NC:intellectuel	ant	0.6272493985480853	conversion		a	property
+NC:déporté	ant	0.6265200831309607	conversion		v	action
+NC:suspect	ant	0.6261021235394124	undet			
+NC:compétiteur	ant	0.6260605725145154	complex			
+NC:Wikipédiens	ant	0.6259642818854891	affixed	ien	n	objCog

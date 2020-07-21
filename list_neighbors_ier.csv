@@ -1,0 +1,101 @@
+AN	CENTROID	PROX	MORPH_TYPE	EXPONENT	BASE_POS	SEM_TYPE
+NC:cordonnier	ier	0.8562058323105332	affixed	ier	n	object
+NC:boulanger	ier	0.8427797925946594	affixed	ier	n	domain
+NC:armurier	ier	0.8244298104329065	affixed	ier	n	object
+NC:maréchal-ferrant	ier	0.821127974382261	compound			
+NC:bijoutier	ier	0.8154395691903638	affixed	ier	n	object
+NC:serrurier	ier	0.8078044675017564	affixed	ier	n	object
+NC:épicier	ier	0.8040424474539709	affixed	ier	n	object
+NC:perruquier	ier	0.7990755746477569	affixed	ier	n	object
+NC:charpentier	ier	0.7981915771494154	affixed	ier	n	object
+NC:forgeron	ier	0.7968373089929723	affixed	on	v	action
+NC:tanneur	ier	0.7964772592565509	affixed	eur	v	action
+NC:jardinier	ier	0.792345986035978	affixed	ier	n	object
+NC:plombier	ier	0.7903371405673816	affixed	ier	n	object
+NC:cafetier	ier	0.7902935490066074	affixed	ier	n	object
+NC:boucher	ier	0.7899596484269767	affixed	ier	n	object
+NC:aubergiste	ier	0.7885074831547741	affixed	iste	n	object
+NC:quincaillier	ier	0.7838255216503796	affixed	ier	n	object
+NC:bottier	ier	0.7836677794146392	affixed	ier	n	object
+NC:coiffeur	ier	0.7755425467685007	affixed	eur	v	action
+NC:chapelier	ier	0.7753992466800053	affixed	ier	n	object
+NC:portefaix	ier	0.7741279762009082	compound			
+NC:chaudronnier	ier	0.7738436344911243	affixed	ier	n	object
+NC:charretier	ier	0.7732086430909668	affixed	ier	n	object
+NC:cuisinier	ier	0.7721681840724689	affixed	ier	n	domain
+NC:menuisier	ier	0.7704855812831918	complex			
+NC:boutiquier	ier	0.7698626230075458	affixed	ier	n	object
+NC:maquignon	ier	0.7693471316119161	simple			
+NC:voiturier	ier	0.768090093945552	affixed	ier	n	object
+NC:fripier	ier	0.7675535674224263	affixed	ier	n	object
+NC:colporteur	ier	0.7670962946462438	affixed	eur	v	action
+NC:cabaretier	ier	0.7657083239221067	affixed	ier	n	object
+NC:tailleur	ier	0.7637831798872913	affixed	eur	v	action
+NC:tonnelier	ier	0.7626441259116274	affixed	ier	n	object
+NC:tisserand	ier	0.7595763009794418	complex			
+NC:garagiste	ier	0.7584096788891228	affixed	iste	n	object
+NC:limonadier	ier	0.7566622520713148	affixed	ier	n	object
+NC:contremaître	ier	0.7560097092351221	affixed	contre	n	object
+NC:tapissier	ier	0.7548502730486887	affixed	ier	n	object
+NC:miroitier	ier	0.7532676032142003	affixed	ier	n	object
+NC:charcutier	ier	0.7518636156747843	affixed	ier	v	action
+NC:ferblantier	ier	0.7513347625093878	affixed	ier	n	object
+NC:fourreur	ier	0.7494618664070941	affixed	eur	v	action
+NC:gantier	ier	0.7476601950829183	affixed	ier	n	object
+NC:cardeur	ier	0.7469125275052729	affixed	eur	v	action
+NC:paveur	ier	0.745692702667685	affixed	eur	v	action
+NC:meunier	ier	0.7445481962007646	complex			
+NC:ébéniste	ier	0.7443917541109263	affixed	iste	n	object
+NC:drapier	ier	0.7443103952646059	affixed	ier	n	object
+NC:vitrier	ier	0.7428507899811763	affixed	ier	n	object
+NC:bourrelier	ier	0.7414444260175264	complex			
+NC:horloger	ier	0.7384282806768203	affixed	ier	n	object
+NC:plâtrier	ier	0.734572263984935	affixed	ier	n	object
+NC:commerçant	ier	0.733776233876775	affixed	ant	v	action
+NC:terrassier	ier	0.7327114348747681	affixed	ier	v	action
+NC:cloutier	ier	0.732012564625253	affixed	ier	n	object
+NC:palefrenier	ier	0.7308733243526921	complex			
+NC:domestique	ier	0.7307989530325684	conversion		a	property
+NC:sabotier	ier	0.7273707496305741	affixed	ier	n	object
+NC:marchand	ier	0.7271051155592746	undet			
+NC:postier	ier	0.7256969995037772	affixed	ier	n	institution
+NC:manouvrier	ier	0.7233559605555924	affixed	ier	n	action
+NC:sellier	ier	0.7224995043650543	affixed	ier	n	object
+NC:couturier	ier	0.7223839365708009	affixed	ier	n	action
+NC:charron	ier	0.7222898176097531	complex			
+NC:orfèvre	ier	0.7216242773847454	complex			
+NC:droguiste	ier	0.7158332633788438	affixed	iste	n	object
+NC:coutelier	ier	0.7157935473288914	affixed	ier	n	object
+NC:apothicaire	ier	0.7145712276498178	complex			
+NC:négociant	ier	0.7137013246649249	affixed	ant	v	action
+NC:charbonnier	ier	0.7128832495097395	affixed	ier	n	object
+NC:rabatteur	ier	0.7128307354164238	affixed	eur	v	action
+NC:pâtissier	ier	0.7124582776445577	affixed	ier	v	action
+NC:bonnetier	ier	0.7102014918963291	affixed	ier	n	object
+NC:pharmacien	ier	0.7098676100291409	affixed	ien	n	domain
+NC:restaurateur	ier	0.7097890424084456	affixed	eur	v	action
+NC:garde-chasse	ier	0.7090519033925724	compound			
+NC:distillateur	ier	0.7079789876425531	affixed	eur	v	action
+NC:relieur	ier	0.7075122884187771	affixed	eur	v	action
+NC:bûcheron	ier	0.7044304315943848	affixed	on	v	action
+NC:laboureur	ier	0.7032695681671038	affixed	eur	v	action
+NC:commis	ier	0.7029754023733557	conversion		v	action
+NC:hôtelier	ier	0.6991264273520844	affixed	ier	n	object
+NC:magasinier	ier	0.6981179038427313	affixed	ier	n	object
+NC:brocanteur	ier	0.6973119953921552	affixed	eur	v	action
+NC:couvreur	ier	0.6970956707499993	affixed	eur	v	action
+NC:matelot	ier	0.694159022008784	complex			
+NC:machiniste	ier	0.6918976403787946	affixed	iste	n	object
+NC:truand	ier	0.6907798377901356	undet			
+ADJ:fermier	ier	0.6906124613288588	affixed	ier	n	object
+NC:buandier	ier	0.6897537782609664	complex			
+NC:brasseur	ier	0.6890811155379246	affixed	eur	v	action
+NC:vannier	ier	0.6890496350785147	affixed	ier	n	object
+NC:ouvrier	ier	0.6888460800590016	affixed	ier	v	action
+NC:joaillier	ier	0.6875118617438457	affixed	ier	n	object
+ADJ:chaudronnier	ier	0.6872730650430833	affixed	ier	n	object
+NC:maroquinier	ier	0.6864809971368698	affixed	ier	n	object
+NC:apprenti	ier	0.6863113781821065	complex			
+NC:forain	ier	0.6856964695452327	conversion		a	property
+NC:déménageur	ier	0.6841106545989739	affixed	eur	v	action
+NC:rémouleur	ier	0.6838474636970837	affixed	eur	v	action

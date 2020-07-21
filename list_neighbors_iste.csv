@@ -1,0 +1,101 @@
+AN	CENTROID	PROX	MORPH_TYPE	EXPONENT	BASE_POS	SEM_TYPE
+NC:ophtalmologue	iste	0.7966446572235284	affixed	logue	n	object
+NC:photographe	iste	0.7919619424836603	compound			
+NC:pédagogue	iste	0.7755115822388683	compound			
+NC:neurologue	iste	0.7740670172447583	affixed	logue	n	object
+NC:clarinettiste	iste	0.7707778940158461	affixed	iste	n	domain
+NC:pédiatre	iste	0.7703149854396683	compound			
+NC:violoniste	iste	0.7691706992640656	affixed	iste	n	domain
+NC:mycologue	iste	0.7651010684943536	affixed	logue	n	object
+NC:naturopathe	iste	0.7628173217965669	compound			
+NC:ornithologue	iste	0.7628134096546911	affixed	logue	n	object
+NC:écrivain	iste	0.76220396159054	complex			
+NC:prestidigitateur	iste	0.7612227509407224	affixed	eur	v	action
+NC:phonéticien	iste	0.7612069732975509	affixed	ien	n	domain
+NC:musicologue	iste	0.7605720652975733	affixed	logue	n	domain
+NC:germaniste	iste	0.7602212534993652	affixed	iste	n	domain
+NC:linguiste	iste	0.7591780732413924	affixed	iste	n	domain
+NC:criminologue	iste	0.758725044868838	affixed	logue	n	action
+NC:cardiologue	iste	0.7584067044551536	affixed	logue	n	object
+NC:neurochirurgien	iste	0.7563235180701107	affixed	ien	n	domain
+NC:psychiatre	iste	0.7550083275204091	compound			
+NC:ethnomusicologue	iste	0.7497236431709877	affixed	logue	n	domain
+NC:céramiste	iste	0.7486211020622664	affixed	iste	n	domain
+NC:électrotechnicien	iste	0.7462015008762315	affixed	ien	n	domain
+NC:dermatologue	iste	0.7454790744541485	affixed	logue	n	object
+NC:musicien	iste	0.7447346624106077	affixed	ien	n	domain
+NC:violoncelliste	iste	0.7442782809189641	affixed	iste	n	domain
+NC:botaniste	iste	0.7437863385939905	affixed	iste	n	domain
+NC:folkloriste	iste	0.7420605570341263	affixed	iste	n	domain
+NC:pianiste	iste	0.7396589754866001	affixed	iste	n	domain
+NC:physiologiste	iste	0.7395914324716839	affixed	iste	n	domain
+NC:chimiste	iste	0.7388563233804876	affixed	iste	n	domain
+NC:ethnologue	iste	0.7360863008644973	affixed	logue	n	object
+NC:indianiste	iste	0.7344526672775931	affixed	ien	n	object
+NC:urologue	iste	0.7340773222283248	affixed	logue	n	object
+NC:universitaire	iste	0.7334994080130258	affixed	aire	n	institution
+NC:anthropologue	iste	0.7331733781924107	affixed	logue	n	object
+NC:hématologue	iste	0.733085985487292	affixed	logue	n	object
+NC:flûtiste	iste	0.7330555367893052	affixed	iste	n	domain
+NC:compositeur	iste	0.7327094489845164	affixed	eur	v	action
+NC:paléobotaniste	iste	0.7303807685572167	affixed	iste	n	domain
+NC:herpétologue	iste	0.7292198948108882	affixed	logue	n	object
+NC:informaticien	iste	0.7272655541115556	affixed	ien	n	domain
+NC:cinéaste	iste	0.7258810260120088	complex			
+NC:altiste	iste	0.7257142654039008	affixed	iste	n	domain
+NC:illustrateur	iste	0.7246840410276125	affixed	eur	v	action
+NC:ophtalmologiste	iste	0.7242631221814928	affixed	iste	n	domain
+NC:pharmacologue	iste	0.7241862156987012	affixed	logue	n	object
+NC:artiste-peintre	iste	0.7234263651583175	compound			
+NC:pathologiste	iste	0.7233052253262908	affixed	iste	n	domain
+NC:claveciniste	iste	0.72310118682317	affixed	iste	n	domain
+NC:neurobiologiste	iste	0.722552633881849	affixed	iste	n	domain
+NC:sinologue	iste	0.7219401927582054	affixed	logue	n	object
+NC:physicien	iste	0.7215937825642447	affixed	ien	n	domain
+NC:œnologue	iste	0.7211464176533692	affixed	logue	n	object
+NC:ufologue	iste	0.7211014624482253	affixed	logue	n	object
+NC:hautboïste	iste	0.7206563169641875	affixed	iste	n	domain
+NC:helléniste	iste	0.7206463049338365	affixed	iste	n	domain
+NC:graphiste	iste	0.7200563714519772	affixed	iste	n	domain
+NC:neuropsychiatre	iste	0.7197231495475833	compound			
+NC:psychologue	iste	0.7171159444236441	affixed	logue	n	object
+NC:trompettiste	iste	0.7165495787583108	affixed	iste	n	domain
+NC:lexicographe	iste	0.7164079083972759	compound			
+NC:homéopathe	iste	0.7162194066372888	compound			
+NC:biologiste	iste	0.7159257258062821	affixed	iste	n	domain
+NC:peintre	iste	0.7149623686334686	complex			
+NC:bactériologiste	iste	0.7148532411076737	affixed	iste	n	domain
+NC:statisticien	iste	0.7148146128370005	affixed	ien	n	domain
+NC:immunologiste	iste	0.7132326306582424	affixed	iste	n	domain
+NC:neurophysiologiste	iste	0.7124385241994652	affixed	iste	n	domain
+NC:marionnettiste	iste	0.7118054112377948	affixed	iste	n	object
+NC:haut-fonctionnaire	iste	0.7113230402889681	affixed	haut	n	object
+NC:sociologue	iste	0.7111829997312867	affixed	logue	n	institution
+NC:microbiologiste	iste	0.7110096135261819	affixed	iste	n	domain
+NC:documentariste	iste	0.710352008660509	affixed	iste	n	objCog
+NC:dessinateur	iste	0.7102837269843206	affixed	eur	v	action
+NC:météorologue	iste	0.7101880429203548	affixed	logue	n	object
+NC:caricaturiste	iste	0.7097974316099169	affixed	iste	n	objCog
+NC:journaliste	iste	0.7094213940390892	affixed	iste	n	objCog
+NC:géologue	iste	0.7093865126823118	affixed	logue	n	object
+NC:gynécologue	iste	0.7090369671951436	affixed	logue	n	object
+NC:biochimiste	iste	0.7071554452022852	affixed	iste	n	domain
+NC:styliste	iste	0.7069934255283211	affixed	iste	n	property
+NC:juriste	iste	0.7064579320866594	affixed	iste	n	domain
+NC:ébéniste	iste	0.7061054875145203	affixed	iste	n	object
+NC:chorégraphe	iste	0.7059142129635022	compound			
+NC:entomologiste	iste	0.7057555202555885	affixed	iste	n	domain
+NC:pomologue	iste	0.7057515129605593	affixed	logue	n	object
+NC:paléontologue	iste	0.7056027944013923	affixed	logue	n	property
+NC:mathématicien	iste	0.7037375068470129	affixed	ien	n	domain
+NC:affichiste	iste	0.7029032824269864	affixed	iste	n	objCog
+NC:interniste	iste	0.7026856852285517	affixed	iste	n	domain
+NC:psychanalyste	iste	0.7022507859340875	affixed	iste	n	domain
+NC:hispaniste	iste	0.7011845673860655	affixed	iste	a	property
+NC:obstétricien	iste	0.7009172850975381	affixed	ien	n	domain
+NC:aquarelliste	iste	0.7005438999155117	affixed	iste	n	domain
+NC:tubiste	iste	0.7004632454194043	affixed	iste	n	domain
+NC:philologue	iste	0.699881856696152	affixed	logue	n	object
+NC:embryologiste	iste	0.6995799305255377	affixed	iste	n	domain
+NC:contrebassiste	iste	0.6979206192421967	affixed	iste	n	domain
+NC:alpiniste	iste	0.6977006305949695	affixed	iste	n	object
