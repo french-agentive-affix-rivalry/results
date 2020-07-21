@@ -13,7 +13,7 @@ Les scores de proximité des amorces entre elles sont présentés dans un fichie
 Ainsi, le score de proximité associé à *agonisant* dans ce fichier correspond au score de proximité moyen de *agonisant* à l'ensemble des autres noms en -*ant* de la liste (*appelant, apprenant, arrivant*, etc), moyenné sur 5 modèles.
 
 Les voisins distributionnels sont présentés dans des fichiers .csv (un par suffixe) composés de 7 colonnes séparées par des tabulations. Chaque entrée contient :
-* le voisin distributionnel avec le POS annoté par le parseur (AN)
+* le voisin distributionnel avec le POS annoté par le parseur (NEIGHBOR)
 * le barycentre duquel il est voisin (CENTROID)
 * son score cosinus de proximité au barycentre (compris entre 0 et 1, dec = .)
 * son type morphologique (MORPH_TYPE, parmi "affixed", "conversion", "compound", "complex", "simple", "extragram" et "undet")
